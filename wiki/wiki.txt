@@ -1,0 +1,11 @@
+<h1> Criando um botão </h1>
+
+<p> Para criar um botão, utilizamos o objeto Button, passando todos os argumentos válidos </p> </br>
+
+<h3> Button </h3> </br>
+
+<p> Construtores:  </p>
+<p> Button (text, width, height, id) </p> </br>
+<p> text ~ Texto que será apresentado na tela </br> width ~ Largura do botão </br> height ~ altura do botão  </br> id ~ identificador do button, qualquer número é aceito</br> </br> </p>
+<p> Métodos: </p>
+<p> newInstance ~ Isso retorna um Botão na qual poderá por num layout >> return android.widget.Button </p>
